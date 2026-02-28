@@ -1,5 +1,5 @@
-Tools, languages, and other things that I like to work with.
-<table>
+
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -9,33 +9,27 @@ Tools, languages, and other things that I like to work with.
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="css.svg" width="48" height="48" alt="css" />
       </a>
-      <br>TypeScript
+      <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://www.svgrepo.com/svg/512355/html-124" width="48" height="48" alt="Kubernetes" />
+        <img src="js.svg" width="48" height="48" alt="js" />
       </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
+      <br>Javascript
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="python.svg" width="48" height="48" alt="python" />
       </a>
-      <br>Debian
+      <br>Python
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="java.svg" width="48" height="48" alt="java" />
       </a>
-      <br>Grafana
+      <br>Java
     </td>
   </tr>
 </table>
