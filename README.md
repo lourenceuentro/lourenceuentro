@@ -3,7 +3,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="img/html2.svg" width="48" height="48" alt="html" />
+        <img src="img\html2.svg" width="48" height="48" alt="html" />
       </a>
       <br>HTML
     </td>
