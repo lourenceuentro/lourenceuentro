@@ -3,9 +3,9 @@ Tools, languages, and other things that I like to work with.
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="html.svg" width="48" height="48" alt="html" />
       </a>
-      <br>Python
+      <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
