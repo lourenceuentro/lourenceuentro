@@ -7,7 +7,7 @@ Student developer passionate about crafting responsive, accessible, and high-per
 
 
 
-[` Portfolio `](https://your-portfolio.com) &nbsp; [` LinkedIn `](https://linkedin.com/in/your-profile) &nbsp; [` Email `](mailto:your@email.com)
+[` Portfolio `](https://github.com/lourenceuentro) &nbsp; [` LinkedIn `](www.linkedin.com/in/lourencelorejas) &nbsp; [` Email `](mailto:lorejaslourence@email.com)
 
 
 ---
